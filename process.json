@@ -1,6 +1,6 @@
 {
-  "name": "pm2sample",
+  "name": "socketio-scale-sample",
   "script": "server.js",
-  "exec_mode": "cluster_mode",
+  "exec_mode": "fork_mode",
   "instances": 0
 }
