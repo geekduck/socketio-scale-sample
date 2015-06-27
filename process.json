@@ -1,0 +1,6 @@
+{
+  "name": "pm2sample",
+  "script": "server.js",
+  "exec_mode": "cluster_mode",
+  "instances": 0
+}

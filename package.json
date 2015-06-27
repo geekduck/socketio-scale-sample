@@ -1,0 +1,19 @@
+{
+  "name": "socketio-scale-sample",
+  "version": "1.0.0",
+  "description": "Socket.IO Sample",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket.io",
+    "pm2"
+  ],
+  "author": "geekduck",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.0",
+    "socket.io": "^0.9.17"
+  }
+}
